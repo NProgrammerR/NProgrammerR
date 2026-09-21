@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NProgrammerR
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on School projects
 - 📫 How to reach me school mail
 
